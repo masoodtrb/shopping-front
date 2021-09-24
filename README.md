@@ -1,3 +1,20 @@
+## Pre-requisites
+
+Node.js >= 8.9.0 and running instances of [shopping-backend] prject (https://github.com/masoodtrb/shopping-backend.git)
+
+## Installation
+
+Do the following to clone and start the project.
+
+In case you have to run backend project then run this project
+
+```sh
+$ git clone https://github.com/masoodtrb/shopping-front.git
+$ cd shopping-front
+$ yarn
+```
+
+make you sure backend project runnig first
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,7 +26,7 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
